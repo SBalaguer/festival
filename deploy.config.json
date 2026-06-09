@@ -1,0 +1,9 @@
+{
+  "network": "paseo-next-v2",
+  "sessionsEnabled": true,
+  "domains": {
+    "admin": "santi-admin",
+    "attendee": "santi-app"
+  },
+  "custom": null
+}
